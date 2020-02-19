@@ -1,4 +1,5 @@
 Ignore everything on this page lol
+Deprecated. New Version: [https://github.com/paradoxmoe/RandomMOE](https://github.com/paradoxmoe/RandomMOE)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
